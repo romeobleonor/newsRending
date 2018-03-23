@@ -1,0 +1,11 @@
+table {
+	border-collapse: separate;
+	border-spacing: 10px;
+	td {
+		vertical-align: top;
+		padding: 0 1em;
+		&.tags {
+			background-color: orange;
+		}
+	}
+}
